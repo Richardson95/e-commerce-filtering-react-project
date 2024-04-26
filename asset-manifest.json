@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/e-commerce-filtering-react-project/static/css/main.d14b31eb.css",
-    "main.js": "/e-commerce-filtering-react-project/static/js/main.948c4ab7.js",
+    "main.css": "/e-commerce-filtering-react-project/static/css/main.bf9a450d.css",
+    "main.js": "/e-commerce-filtering-react-project/static/js/main.fe4edcc2.js",
     "static/js/453.0dfe24f1.chunk.js": "/e-commerce-filtering-react-project/static/js/453.0dfe24f1.chunk.js",
     "index.html": "/e-commerce-filtering-react-project/index.html",
-    "main.d14b31eb.css.map": "/e-commerce-filtering-react-project/static/css/main.d14b31eb.css.map",
-    "main.948c4ab7.js.map": "/e-commerce-filtering-react-project/static/js/main.948c4ab7.js.map",
+    "main.bf9a450d.css.map": "/e-commerce-filtering-react-project/static/css/main.bf9a450d.css.map",
+    "main.fe4edcc2.js.map": "/e-commerce-filtering-react-project/static/js/main.fe4edcc2.js.map",
     "453.0dfe24f1.chunk.js.map": "/e-commerce-filtering-react-project/static/js/453.0dfe24f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d14b31eb.css",
-    "static/js/main.948c4ab7.js"
+    "static/css/main.bf9a450d.css",
+    "static/js/main.fe4edcc2.js"
   ]
 }
